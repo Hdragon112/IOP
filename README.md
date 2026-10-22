@@ -1,4 +1,6 @@
-云编译CMCC RAX3000M固件
+- 云编译OpenWrt X86固件
+
+构建udpxy,转发 IPTV组播信号
 
 Fork：https://github.com/ATang007ZH/Action-237-immortalwrt-mt798x-24.10
 
